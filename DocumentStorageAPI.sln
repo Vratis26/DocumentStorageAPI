@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentStorageAPI", "DocumentStorageAPI\DocumentStorageAPI.csproj", "{1F291F51-31DD-4C0B-AAE5-0EADFD029750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitTesting", "unitTesting\unitTesting.csproj", "{6315F07D-D968-4BA3-A17D-FBB9F873E10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F291F51-31DD-4C0B-AAE5-0EADFD029750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F291F51-31DD-4C0B-AAE5-0EADFD029750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F291F51-31DD-4C0B-AAE5-0EADFD029750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F291F51-31DD-4C0B-AAE5-0EADFD029750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6315F07D-D968-4BA3-A17D-FBB9F873E10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6315F07D-D968-4BA3-A17D-FBB9F873E10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6315F07D-D968-4BA3-A17D-FBB9F873E10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6315F07D-D968-4BA3-A17D-FBB9F873E10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A5C1CF-38CF-41B6-94B3-60FB8B11936F}
+	EndGlobalSection
+EndGlobal
